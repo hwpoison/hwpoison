@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @hwpoison
-- 👀 I’m interested in Python, data and automatitation.
+- 👀 I’m interested in Python, data and automatization.
